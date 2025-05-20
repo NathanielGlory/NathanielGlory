@@ -2,7 +2,7 @@
 <h3 align="center">💡 Media Professional | Community Builder | Communications Strategist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Empowering+People+Through+Media+and+Connection.;Creative+Storytelling+%7C+Event+Coordination+%7C+Strategic+Communication;Driving+Impact+Through+Visual+Content+and+Public+Engagement" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Empowering+People+Through+Media+and+Connection.;Creative+Storytelling+%7C+Event+Coordination+%7C+Public+Relations;Driven+by+Purpose%2C+Impact%2C+and+Visual+Communication" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,39 +12,11 @@
 ---
 
 ### 👩‍💼 About Me
-I am a **dynamic and impact-driven media professional** with a strong foundation in **visual storytelling, public communication, and community engagement**. I bring together expertise in **media production**, **customer relationship management**, and **strategic event coordination** to deliver compelling content and meaningful experiences.
+I am a **multi-talented media professional** passionate about using **visual communication and connection** to spark meaningful impact. I bring hands-on expertise in **media production**, **public relations**, **event coordination**, and **community engagement**.  
 
-With a background that spans **audiovisual operations**, **public relations**, and **legal industry support**, I thrive in roles that demand **versatility, creative thinking, and people-first communication**. My certifications in **intelligence studies**, **peace and security**, and **virtual assistance** reflect my commitment to continuous learning and service excellence.
+With experience supporting **audiovisual operations for high-level institutions**, including regional bodies like ECOWAS, I’ve contributed to the creation of polished, high-impact visual content, event coverage, and press logistics. I move fluidly between creative, administrative, and public-facing roles.  
 
----
-
-### 🎓 Education & Certifications
-- 📝 **HND in Mass Communication** – Federal Polytechnic, Bida (2022)  
-- 🕵️ **Basic Intelligence & Detective Studies** – College of Detectives Investigation (2023)  
-- 🕊️ **Peace & Security Studies Certificate** – Advanced Peace & Reconciliation Centre (2023)  
-- 💻 **Virtual Assistance Training** – ALX (In Progress)
-
----
-
-### 💼 Professional Experience
-
-#### 🎥 Media & Communications
-- Delivered **visual content** for public publications, press releases, and events  
-- Supported **media teams** in high-profile organizations with editing, documentation, and coverage  
-- Acted as a **representative for audiovisual departments**, building stakeholder relationships through events and outreach  
-
-#### 💬 Client Experience & Virtual Support
-- Led **customer support operations**, enhancing workflow, feedback systems, and team efficiency  
-- Supported **legal professionals** by handling scheduling, documentation, budgeting, and client management  
-- Utilized digital tools to optimize **remote assistance**, coordination, and communications
-
----
-
-### 🛠️ Core Skills
-- 📷 **Content Creation & Visual Editing** – Canva, CorelDRAW, Photography  
-- 🧩 **Organizational Tools** – Google Workspace, ChatGPT Prompting, Virtual Office Management  
-- 🎤 **Public Speaking & Event Facilitation** – Community Engagement, Team Leadership  
-- 🧠 **Critical Thinking & Market Insight** – Analysis, Storytelling, Media Strategy  
+I am also certified in **intelligence and forensic studies**, **peace and security**, and **virtual assistance**, equipping me for both structured environments and dynamic, fast-moving media tasks.
 
 ---
 
@@ -60,10 +32,67 @@ With a background that spans **audiovisual operations**, **public relations**, a
 
 ---
 
-### 🚀 Projects & Portfolio
-> 🔧 Portfolio projects and case studies coming soon.  
-Stay tuned for behind-the-scenes looks at my work in media production, client engagement, and public storytelling.
+### 🎓 Education & Certifications
+- 📝 **HND in Mass Communication** – Federal Polytechnic, Bida (2022)  
+- 🕵️ **Basic Intelligence & Detective Studies** – College of Detectives Investigation (2023)  
+- 🕊️ **Peace & Security Studies Certificate** – Advanced Peace & Reconciliation Centre (2023)  
+- 💻 **Virtual Assistance Training** – ALX (Expected 2025)
 
 ---
 
-🌟 *"Empowering people through media, connection, and purpose."*
+### 💼 Work Experience
+
+- 🎥 **Audio Visual Assistant – ECOWAS (2024)**  
+  - Edited high-impact visuals for publications, events, and online presence  
+  - Represented media unit in official engagements  
+  - Assisted in developing PR and event media strategies  
+
+- 💬 **Head of Customer Care – Top Rank Global Project Ltd (2024)**  
+  - Streamlined inquiry systems and improved customer experience  
+  - Provided leadership and trained client service team  
+
+- 🗂️ **Virtual Assistant – Legal Industry (Freelance, 2024)**  
+  - Oversaw calendar scheduling, budget tracking, and documentation  
+  - Maintained professional client communication workflows  
+
+---
+
+### 🛠️ Skills
+- ✅ **Visual & Content Editing** – Canva, CorelDraw  
+- ✅ **Administrative Tools** – Google Workspace, Scheduling Systems  
+- ✅ **Creative Media** – Storyboarding, Social Media Coordination  
+- ✅ **Team & Event Coordination** – Community Outreach, PR Logistics  
+- ✅ **Public Engagement** – Communication Strategy, Public Speaking  
+- ✅ **Digital Tools** – ChatGPT, Prompt Writing, Virtual Collaboration  
+- ✅ **Market & Audience Analysis** – Research, Report Presentation
+
+---
+
+### 🚀 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nathanielglory&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanielglory&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanielglory&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nathanielglory&theme=onedark&column=7" alt="Trophies" />
+</p>
+
+---
+
+### 🚧 Projects
+> Portfolio projects coming soon…  
+Expect works in **storytelling**, **event media**, and **visual communication for communities and causes**.
+
+---
+
+### 🌟 Quote
+*"Empowering people through media, connection, and purpose."*
