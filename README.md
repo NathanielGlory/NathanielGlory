@@ -2,7 +2,7 @@
 <h3 align="center">💡 Media Professional | Community Builder | Communications Strategist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Empowering+people+through+media+and+connection.;Creative+Storytelling+%7C+Event+Coordination+%7C+Public+Relations;Currently+Working+with+ECOWAS+Media+Team" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Empowering+People+Through+Media+and+Connection.;Creative+Storytelling+%7C+Event+Coordination+%7C+Strategic+Communication;Driving+Impact+Through+Visual+Content+and+Public+Engagement" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,11 +12,39 @@
 ---
 
 ### 👩‍💼 About Me
-- 🎬 Versatile in **media production**, **community engagement**, and **communications**
-- 🏛️ Currently supporting **audiovisual and public relations operations at ECOWAS**
-- 🤝 Strong experience in **customer care**, **virtual assistance**, and **event representation**
-- 📜 Certified in **intelligence studies**, **peace & security**, and **virtual assistance**
-- 💬 Passionate about meaningful collaboration and impactful storytelling
+I am a **dynamic and impact-driven media professional** with a strong foundation in **visual storytelling, public communication, and community engagement**. I bring together expertise in **media production**, **customer relationship management**, and **strategic event coordination** to deliver compelling content and meaningful experiences.
+
+With a background that spans **audiovisual operations**, **public relations**, and **legal industry support**, I thrive in roles that demand **versatility, creative thinking, and people-first communication**. My certifications in **intelligence studies**, **peace and security**, and **virtual assistance** reflect my commitment to continuous learning and service excellence.
+
+---
+
+### 🎓 Education & Certifications
+- 📝 **HND in Mass Communication** – Federal Polytechnic, Bida (2022)  
+- 🕵️ **Basic Intelligence & Detective Studies** – College of Detectives Investigation (2023)  
+- 🕊️ **Peace & Security Studies Certificate** – Advanced Peace & Reconciliation Centre (2023)  
+- 💻 **Virtual Assistance Training** – ALX (In Progress)
+
+---
+
+### 💼 Professional Experience
+
+#### 🎥 Media & Communications
+- Delivered **visual content** for public publications, press releases, and events  
+- Supported **media teams** in high-profile organizations with editing, documentation, and coverage  
+- Acted as a **representative for audiovisual departments**, building stakeholder relationships through events and outreach  
+
+#### 💬 Client Experience & Virtual Support
+- Led **customer support operations**, enhancing workflow, feedback systems, and team efficiency  
+- Supported **legal professionals** by handling scheduling, documentation, budgeting, and client management  
+- Utilized digital tools to optimize **remote assistance**, coordination, and communications
+
+---
+
+### 🛠️ Core Skills
+- 📷 **Content Creation & Visual Editing** – Canva, CorelDRAW, Photography  
+- 🧩 **Organizational Tools** – Google Workspace, ChatGPT Prompting, Virtual Office Management  
+- 🎤 **Public Speaking & Event Facilitation** – Community Engagement, Team Leadership  
+- 🧠 **Critical Thinking & Market Insight** – Analysis, Storytelling, Media Strategy  
 
 ---
 
@@ -32,40 +60,9 @@
 
 ---
 
-### 🎓 Education & Certifications
-- 📝 **HND in Mass Communication** – Federal Polytechnic, Bida (2022)
-- 🕵️ **Basic Intelligence & Detective Studies** – College of Detectives Investigation (2023)
-- 🕊️ **Peace & Security Studies Certificate** – Advanced Peace & Reconciliation Centre (2023)
-- 🧑‍💻 **Virtual Assistance Training** – ALX (Expected 2025)
-
----
-
-### 💼 Work Experience
-- 🎥 **Audio Visual Assistant** – ECOWAS (2024–Present)  
-  - Supported media production for publications and live events  
-  - Edited visual content and managed press logistics
-
-- 💬 **Head of Customer Care Service** – Top Rank Global Project Ltd (2024)  
-  - Led client service team and optimized feedback and resolution systems
-
-- 📎 **Virtual Assistant (Legal Sector)** – Freelance (2024)  
-  - Managed calendars, budgets, client documents, and correspondence
-
----
-
-### 🛠️ Skills
-- Google Workspace  
-- Canva & CorelDraw  
-- Photo & Content Editing  
-- ChatGPT & Prompting  
-- Event & Team Coordination  
-- Public Speaking & Community Engagement  
-- Market & Audience Analysis  
-
----
-
-### 🚧 Projects
-> Portfolio projects coming soon…
+### 🚀 Projects & Portfolio
+> 🔧 Portfolio projects and case studies coming soon.  
+Stay tuned for behind-the-scenes looks at my work in media production, client engagement, and public storytelling.
 
 ---
 
