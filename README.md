@@ -83,7 +83,7 @@ I am also certified in **intelligence and forensic studies**, **peace and securi
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nathanielglory&theme=onedark&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NathanielGlory&theme=onedark&column=7" alt="Trophies" />
 </p>
 
 ---
